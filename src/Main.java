@@ -6,7 +6,6 @@ public class Main {
         double salarioBruto, salarioNeto, valorHora, cantidadHoras = 0;
         double deduccionSalud, deduccionPension, horasExtras, valorHorasExtras = 0;
         double bonificacion, fondoSolidaridadPencional, auxiolioTransporte, salarioMinimo = 0;
-
         System.out.println("Ingresa el nombre del empleado");
         nombreEmpleado = sc.nextLine();
         System.out.println("Ingresa el numero de documento");
